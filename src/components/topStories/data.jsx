@@ -1,0 +1,77 @@
+const data = [
+  {
+    img: "https://sneakernews.com/wp-content/uploads/2022/09/Nike-Air-Force-1-Black-Yellow-FB7162-081-8.jpg?w=540&amp;h=380&amp;crop=1",
+    rating: "4/5",
+    time: "3 Days",
+    has: "Maclore de",
+    name: "Puma Announces Breanna",
+    info: "For the first time in over a decade, a signature basketball silhouette is being made for one of the WNBA’s best and brightest  stars, Olympic Gold Medalist and Sea...",
+  },
+
+  {
+    img: "https://sneakernews.com/wp-content/uploads/2022/09/hello-kitty-adidas-superstar-GW7168-2.jpg?w=540&amp;h=380&amp;crop=1",
+    rating: "4/5",
+    time: "5 Days",
+    has: "Micael le",
+    name: "Hello Kitty and Adidas",
+    info: "The world of Sanrio is vast and replete with many an iconic character. Few among the family, though, rival the immense influence of Hello Kitty, who’s played masc...",
+  },
+  {
+    img: "https://sneakernews.com/wp-content/uploads/2022/09/nike-air-force-1-low-worldwide-black-royal-fb1840-001-lead.jpg?w=540&amp;h=380&amp;crop=1",
+    rating: "4/5",
+    time: "5 Days",
+    has: "Micael le",
+    name: "Air Force 1 Low Expands",
+    info: "The nighttime aesthetic seen here is applied to the tumbled black leather panels of the upper and perforated mesh construction of the tongue while Royal trim and ...",
+  },
+  {
+    img: "https://sneakernews.com/wp-content/uploads/2022/09/air-jordan-37-low.jpg?w=540&amp;h=380&amp;crop=1",
+    rating: "4/5",
+    time: "11 Mins",
+    has: "Jared Ebanks",
+    name: "Jayson Tatum Debuts",
+    info: "Jordan Brands signature model for the past few years, Jayson Tatum will be dawning the Air Jordan 37 this season before attaining potentially his first signature ...",
+  },
+  {
+    img: "https://sneakernews.com/wp-content/uploads/2022/09/nike-zoom-freak-4-ironstone-orange-trance-cobblestone-sail-dj6149-003-2.jpg?w=540&amp;h=380&amp;crop=1",
+    rating: "5/5",
+    time: "41 mina",
+    has: "Micael le",
+    name: "Bro’s Nike Zoom Freak 4",
+    info: "Arriving right time for the Fall, this upcoming take on the Zoom Freak 4 seemingly draws inspiration from Thanksgiving. Orange and brown, two staples of the holid...",
+  },
+  {
+    img: "https://sneakernews.com/wp-content/uploads/2022/09/puma-stewie-1-quiet-fire-breanna-stewart-release-date-lead.jpg?w=540&amp;h=380&amp;crop=1",
+    rating: "4/5",
+    time: "6 Days",
+    has: "Micael le",
+    name: "Nike Air Force Orange Color",
+    info: "From lace toggles to city-inspired makeovers, the Nike Air Force 1 has delivered a number of unique modifications. Here though, the brand is taking things down qu...",
+  },
+  {
+    img: "https://sneakernews.com/wp-content/uploads/2022/09/Nike-Air-Max-Plus-FB3358-001-2.jpg?w=540&amp;h=380&amp;crop=1",
+    rating: "5/5",
+    time: "2 Hours",
+    has: "Micael le",
+    name: "Nike Air Max Plus",
+    info: "The Nike Air Max Plus has enjoyed the reveal of several colorways these last few of months. And as we officially embark on the Fall season, an additional set have...",
+  },
+  {
+    img: "https://sneakernews.com/wp-content/uploads/2022/03/yellow-toe-jordan-1-release-date-2.jpg",
+    rating: "4/5",
+    time: "7 Hours",
+    has: "Micael le",
+    name: "Air Jordan Retro High OG",
+    info: "Air Jordan Retro High OG popular series of AJ1s with the popular color-blocking with the original Yellow Toe flavor. The colorway was revealed back PE by musician...",
+  },
+  {
+    img: "https://sneakernews.com/wp-content/uploads/2022/09/nike-zoom-gt-cut-2-release-date.jpg?w=540&amp;h=380&amp;crop=1",
+    rating: "3/5",
+    time: "1 Month",
+    has: "Micael le",
+    name: "Nike Air Zoom GT Cut 2",
+    info: "The Bred coloryway of Zoom GT Cut 2 will be first to release this Friday, For Nike Members Nation World Wide while Sabrina Ionescus colorway is set for an October...",
+  },
+];
+
+export default data;
